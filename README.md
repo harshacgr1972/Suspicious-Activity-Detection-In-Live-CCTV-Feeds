@@ -1,2 +1,4 @@
 # Suspicious-Activity-Detection-In-Live-CCTV-Feeds
 DESIGN AND DEVELOPMENT OF SYSTEM FOR ENHANCING THE RECOGNITION OF SUSPICIOUS ACTIVITY IN LIVE CCTV FEEDS USING DEEP LEARNING AND IOT
+Contact for the app and dataset
+email : harshacgr1972@gmail.com
